@@ -1,0 +1,34 @@
+epoch: 1, train_loss: 1.070552, valid_loss: 0.933587, Valid Acc: 0.420000
+epoch: 2, train_loss: 0.881595, valid_loss: 0.870161, Valid Acc: 0.572500
+epoch: 3, train_loss: 0.801371, valid_loss: 0.856093, Valid Acc: 0.567500
+epoch: 4, train_loss: 0.754845, valid_loss: 0.832005, Valid Acc: 0.592500
+epoch: 5, train_loss: 0.711555, valid_loss: 0.819867, Valid Acc: 0.602500
+epoch: 6, train_loss: 0.751722, valid_loss: 0.815193, Valid Acc: 0.595000
+epoch: 7, train_loss: 0.687102, valid_loss: 0.796551, Valid Acc: 0.630000
+epoch: 8, train_loss: 0.650918, valid_loss: 0.788868, Valid Acc: 0.635000
+epoch: 9, train_loss: 0.643419, valid_loss: 0.776809, Valid Acc: 0.627500
+epoch: 10, train_loss: 0.612143, valid_loss: 0.804119, Valid Acc: 0.612500
+epoch: 11, train_loss: 0.584551, valid_loss: 0.759281, Valid Acc: 0.642500
+epoch: 12, train_loss: 0.558921, valid_loss: 0.795502, Valid Acc: 0.642500
+epoch: 13, train_loss: 0.547161, valid_loss: 0.822697, Valid Acc: 0.640000
+epoch: 14, train_loss: 0.516239, valid_loss: 0.873008, Valid Acc: 0.615000
+epoch: 15, train_loss: 0.494383, valid_loss: 0.840481, Valid Acc: 0.650000
+epoch: 16, train_loss: 0.476319, valid_loss: 0.851972, Valid Acc: 0.627500
+epoch: 17, train_loss: 0.461782, valid_loss: 0.869463, Valid Acc: 0.645000
+epoch: 18, train_loss: 0.444978, valid_loss: 0.859667, Valid Acc: 0.660000
+epoch: 19, train_loss: 0.435394, valid_loss: 0.858797, Valid Acc: 0.662500
+epoch: 20, train_loss: 0.415002, valid_loss: 0.975906, Valid Acc: 0.605000
+epoch: 21, train_loss: 0.392622, valid_loss: 0.898546, Valid Acc: 0.642500
+epoch: 22, train_loss: 0.390011, valid_loss: 0.897372, Valid Acc: 0.642500
+epoch: 23, train_loss: 0.377576, valid_loss: 0.944562, Valid Acc: 0.642500
+epoch: 24, train_loss: 0.362956, valid_loss: 0.914576, Valid Acc: 0.630000
+epoch: 25, train_loss: 0.341417, valid_loss: 0.964511, Valid Acc: 0.652500
+
+best epoch : 11
+
+Test
+[[43 47  8  2]
+ [14 69  8  9]
+ [ 1  7 68 24]
+ [ 0  5 13 82]]
+0.655
